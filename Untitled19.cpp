@@ -22,5 +22,6 @@ int main()
     cout<<ptrFun();
     int (*ptrFun2)()=doo;
     cout<<ptrFun2();
+    cout<<"gitHub";
     return 0;
 }
